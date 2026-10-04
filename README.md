@@ -1,5 +1,11 @@
 # IMR_Lab_1
 
+## Members
+
+Both B2
+- Cosulean Dima
+- Dobos Eugeniu
+
 ## EXTRA FILES
 
 - **_recording.mp4** - recording with the project working on android
