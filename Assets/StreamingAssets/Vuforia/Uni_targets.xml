@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bookmark" size="1.000000 3.692308" />
+    <ImageTarget name="student_id" size="1.000000 1.524120" />
+    <ImageTarget name="tea_tag" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
