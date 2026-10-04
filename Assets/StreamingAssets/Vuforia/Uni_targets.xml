@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="bookmark_smaller" size="0.640000 2.363077" />
+    <ImageTarget name="rgb_test2" size="1.000000 1.003817" />
+    <ImageTarget name="rgb_test1" size="1.000000 1.005155" />
+    <ImageTarget name="radio_transmission" size="1.000000 0.931319" />
     <ImageTarget name="bookmark" size="1.000000 3.692308" />
     <ImageTarget name="student_id" size="1.000000 1.524120" />
     <ImageTarget name="tea_tag" size="1.000000 1.000000" />
